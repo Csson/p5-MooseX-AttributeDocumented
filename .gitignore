@@ -1,0 +1,7 @@
+/MooseX-AttributeDocumented-*
+/.build
+/_build*
+/Build
+MYMETA.*
+!META.json
+/.prove
