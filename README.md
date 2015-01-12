@@ -37,6 +37,10 @@ Adds the [Documented](https://metacpan.org/pod/MooseX::AttributeDocumented) trai
 
 # SEE ALSO
 
+# SOURCE
+
+[https://github.com/Csson/p5-MooseX-AttributeDocumented](https://github.com/Csson/p5-MooseX-AttributeDocumented)
+
 # HOMEPAGE
 
 [https://metacpan.org/release/MooseX-AttributeDocumented](https://metacpan.org/release/MooseX-AttributeDocumented)

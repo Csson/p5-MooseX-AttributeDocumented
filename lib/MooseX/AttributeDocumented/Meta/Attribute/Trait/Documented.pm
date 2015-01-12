@@ -93,4 +93,7 @@ An integer. Defaults to C<1000>.
 
 =head1 SEE ALSO
 
+=for :list
+* Moose
+
 =cut
