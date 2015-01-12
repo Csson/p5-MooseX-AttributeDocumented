@@ -91,9 +91,4 @@ A string. If the default value is a code ref you can describe it in this field.
 
 An integer. Defaults to C<1000>.
 
-=head1 SEE ALSO
-
-=for :list
-* Moose
-
 =cut

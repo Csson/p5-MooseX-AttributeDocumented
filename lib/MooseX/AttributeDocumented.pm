@@ -51,4 +51,7 @@ Adds the L<Documented|MooseX::AttributeDocumented> trait to all attributes in th
 
 =head1 SEE ALSO
 
+=for :list
+* L<Moose>
+
 =cut
