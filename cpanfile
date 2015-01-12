@@ -1,7 +1,9 @@
 requires 'perl', '5.010001';
 
-# requires 'Some::Module', 'VERSION';
+requires 'Moose', '2.0000';
+requires 'Moose::Exporter';
+requires 'Moose::Role';
 
 on test => sub {
-requires 'Test::More', '0.96';
+	requires 'Test::More', '0.96';
 };
