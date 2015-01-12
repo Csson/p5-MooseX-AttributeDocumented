@@ -10,11 +10,6 @@ package MooseX::AttributeDocumented::Meta::Attribute::Trait::Documented;
 use Moose::Role;
 Moose::Util::meta_attribute_alias('Documented');
 
-has documentation => (
-    is => 'rw',
-    isa => 'Str',
-    predicate => 'has_documentation',
-);
 has documentation_alts => (
     is => 'rw',
     isa => 'HashRef',
@@ -26,6 +21,7 @@ has documentation_default => (
     isa => 'Str',
     predicate => 'has_documentation_default',
 );
+
 has documentation_order => (
     is => 'rw',
     isa => 'Int',
@@ -71,13 +67,7 @@ __END__
 
 =head1 DESCRIPTION
 
-This trait allows documenting metadata to be attached to an attribute.
-
-It adds the following to the attribute specification:
-
-=head2 documentation
-
-A string.
+L<Moose> already has C<documentation>, this trait adds the following to the attribute specification:
 
 =head2 documentation_alts
 

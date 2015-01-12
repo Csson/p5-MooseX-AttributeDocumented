@@ -1,4 +1,21 @@
 Revision history for MooseX-AttributeDocumented
 
 {{$NEXT}}
-     - Initial release
+ [API Changes]
+
+ [Bug Fixes]
+ - Removed 'documentation', since it already exists. Fixes #1.
+
+ [Documentation]
+
+ [Enhancements]
+
+ [Meta]
+
+ [New Features]
+
+ [Revision]
+
+0.1000 2015-01-12T22:43:59Z CET
+ - Initial release
+
