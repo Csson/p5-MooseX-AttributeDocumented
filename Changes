@@ -4,7 +4,7 @@ Revision history for MooseX-AttributeDocumented
  [API Changes]
 
  [Bug Fixes]
- - Removed 'documentation', since it already exists. Fixes #1.
+ - Fixed a 'subroutine redefined' warning.
 
  [Documentation]
 
@@ -15,6 +15,10 @@ Revision history for MooseX-AttributeDocumented
  [New Features]
 
  [Revision]
+
+0.1001 2015-01-13T00:05:40Z CET
+ [Bug Fixes]
+ - Removed 'documentation', since it already exists. Fixes #1.
 
 0.1000 2015-01-12T22:43:59Z CET
  - Initial release

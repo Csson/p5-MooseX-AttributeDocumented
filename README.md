@@ -4,7 +4,7 @@ MooseX::AttributeDocumented - Add Documented trait to all to attributes
 
 # VERSION
 
-Version 0.1001, released 2015-01-12.
+Version 0.1002, released 2015-01-13.
 
 # SYNOPSIS
 
