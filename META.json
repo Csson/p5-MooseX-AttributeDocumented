@@ -46,8 +46,23 @@
       },
       "test" : {
          "requires" : {
-            "Test::More" : "0.96"
+            "Test::More" : "0.96",
+            "Test::Warnings" : "0"
          }
+      }
+   },
+   "provides" : {
+      "Moose::Meta::Attribute::Custom::Trait::Documented" : {
+         "file" : "lib/Moose/Meta/Attribute/Custom/Trait/Documented.pm",
+         "version" : "0.1003"
+      },
+      "MooseX::AttributeDocumented" : {
+         "file" : "lib/MooseX/AttributeDocumented.pm",
+         "version" : "0.1003"
+      },
+      "MooseX::AttributeDocumented::Meta::Attribute::Trait::Documented" : {
+         "file" : "lib/MooseX/AttributeDocumented/Meta/Attribute/Trait/Documented.pm",
+         "version" : "0.1003"
       }
    },
    "release_status" : "stable",
@@ -62,6 +77,6 @@
          "web" : "https://github.com/Csson/p5-MooseX-AttributeDocumented"
       }
    },
-   "version" : "0.1002"
+   "version" : "0.1003"
 }
 
