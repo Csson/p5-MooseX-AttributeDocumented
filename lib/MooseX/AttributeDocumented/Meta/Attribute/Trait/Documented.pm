@@ -4,8 +4,9 @@ use warnings;
 
 package MooseX::AttributeDocumented::Meta::Attribute::Trait::Documented;
 
-# VERSION
 # ABSTRACT: Add documentation to attributes
+# AUTHORITY
+our $VERSION = '0.1004';
 
 use Moose::Role;
 #Moose::Util::meta_attribute_alias('Documented');

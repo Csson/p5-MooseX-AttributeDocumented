@@ -4,8 +4,9 @@ use warnings;
 
 package MooseX::AttributeDocumented;
 
-# VERSION
 # ABSTRACT: Add Documented trait to all to attributes
+# AUTHORITY
+our $VERSION = '0.1004';
 
 use Moose;
 use Moose::Exporter;

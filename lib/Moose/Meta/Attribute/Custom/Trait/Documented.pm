@@ -4,8 +4,9 @@ use warnings;
 
 package Moose::Meta::Attribute::Custom::Trait::Documented;
 
-# VERSION
 # ABSTRACT: Register the trait
+# AUTHORITY
+our $VERSION = '0.1004';
 
 sub register_implementation {
     return 'MooseX::AttributeDocumented::Meta::Attribute::Trait::Documented';
