@@ -6,7 +6,7 @@ package MooseX::AttributeDocumented::Meta::Attribute::Trait::Documented;
 
 # ABSTRACT: Add documentation to attributes
 # AUTHORITY
-our $VERSION = '0.1004';
+our $VERSION = '0.1005';
 
 use Moose::Role;
 #Moose::Util::meta_attribute_alias('Documented');

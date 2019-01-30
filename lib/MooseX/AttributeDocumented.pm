@@ -6,7 +6,7 @@ package MooseX::AttributeDocumented;
 
 # ABSTRACT: Add Documented trait to all to attributes
 # AUTHORITY
-our $VERSION = '0.1004';
+our $VERSION = '0.1005';
 
 use Moose;
 use Moose::Exporter;

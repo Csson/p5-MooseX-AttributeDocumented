@@ -6,7 +6,7 @@ package Moose::Meta::Attribute::Custom::Trait::Documented;
 
 # ABSTRACT: Register the trait
 # AUTHORITY
-our $VERSION = '0.1004';
+our $VERSION = '0.1005';
 
 sub register_implementation {
     return 'MooseX::AttributeDocumented::Meta::Attribute::Trait::Documented';
