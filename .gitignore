@@ -1,7 +1,12 @@
-/MooseX-AttributeDocumented-*
+# This file was auto-generated from iller.yaml by Dist::Iller on 2019-01-30 18:35:25 UTC.
+# The following configs were used:
+# * Dist::Iller::Config::Author::CSSON: 0.0322
+
 /.build
 /_build*
 /Build
 MYMETA.*
 !META.json
 /.prove
+MooseX-AttributeDocumented-*
+.coverhistory.json

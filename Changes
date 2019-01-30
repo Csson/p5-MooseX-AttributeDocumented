@@ -1,20 +1,11 @@
 Revision history for MooseX-AttributeDocumented
 
 {{$NEXT}}
- [API Changes]
+ [Other]
+ - No functional changes.
+ - Rebuilt with current toolset.
 
- [Bug Fixes]
-
- [Documentation]
-
- [Enhancements]
-
- [Meta]
-
- [New Features]
-
- [Revision]
-
+0.1003 2015-01-18T00:03:46Z CET
  [Requirements]
  - Added Test::Warnings as a test prereq.
 
